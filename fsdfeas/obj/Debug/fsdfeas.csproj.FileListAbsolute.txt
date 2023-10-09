@@ -1,0 +1,10 @@
+G:\fsdfeas\fsdfeas\bin\Debug\fsdfeas.exe.config
+G:\fsdfeas\fsdfeas\bin\Debug\fsdfeas.exe
+G:\fsdfeas\fsdfeas\bin\Debug\fsdfeas.pdb
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.csprojAssemblyReference.cache
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.Form1.resources
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.Properties.Resources.resources
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.csproj.GenerateResource.cache
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.csproj.CoreCompileInputs.cache
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.exe
+G:\fsdfeas\fsdfeas\obj\Debug\fsdfeas.pdb
